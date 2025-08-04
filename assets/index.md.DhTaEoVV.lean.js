@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as a}from"./chunks/framework.BjxSoxtF.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{"redirect":"/guide/"},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),r={name:"index.md"};function n(o,c,d,i,s,p){return a(),t("div")}const f=e(r,[["render",n]]);export{m as __pageData,f as default};

@@ -1,0 +1,1 @@
+import{_ as i,c as s,o as e,ae as l}from"./chunks/framework.BjxSoxtF.js";const k=JSON.parse('{"title":"Wings 配置指南","description":"","frontmatter":{},"headers":[],"relativePath":"wings.md","filePath":"wings.md"}'),t={name:"wings.md"};function n(h,a,o,p,r,d){return e(),s("div",null,a[0]||(a[0]=[l("",23)]))}const g=i(t,[["render",n]]);export{k as __pageData,g as default};

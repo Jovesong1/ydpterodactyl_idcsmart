@@ -1,0 +1,1 @@
+import{_ as o,c as a,o as r,ae as e}from"./chunks/framework.BjxSoxtF.js";const g=JSON.parse('{"title":"配置接口","description":"","frontmatter":{},"headers":[],"relativePath":"setup-api.md","filePath":"setup-api.md"}'),l={name:"setup-api.md"};function i(s,t,n,d,u,h){return r(),a("div",null,t[0]||(t[0]=[e("",27)]))}const q=o(l,[["render",i]]);export{g as __pageData,q as default};

@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as i}from"./chunks/framework.BjxSoxtF.js";const _=JSON.parse('{"title":"API参考","description":"","frontmatter":{},"headers":[],"relativePath":"guide/api.md","filePath":"guide/api.md"}'),o={name:"guide/api.md"};function n(p,a,d,l,s,h){return r(),t("div",null,a[0]||(a[0]=[i("",8)]))}const u=e(o,[["render",n]]);export{_ as __pageData,u as default};

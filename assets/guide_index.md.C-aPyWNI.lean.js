@@ -1,0 +1,1 @@
+import{_ as e,c as i,o as s,ae as t}from"./chunks/framework.BjxSoxtF.js";const g=JSON.parse('{"title":"介绍","description":"","frontmatter":{},"headers":[],"relativePath":"guide/index.md","filePath":"guide/index.md"}'),n={name:"guide/index.md"};function l(r,a,d,o,h,p){return s(),i("div",null,a[0]||(a[0]=[t("",11)]))}const u=e(n,[["render",l]]);export{g as __pageData,u as default};

@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: '翼龙对接魔方财务模块(集成版)',
   description: '模块文档详细说明',
-  base: '/ydpterodactyl_idcsmart/', // 与仓库名保持一致
+  base: '/', // 与仓库名保持一致
   cleanUrls: true,
   
   // 新增：构建选项确保生成正确的 HTML 文件

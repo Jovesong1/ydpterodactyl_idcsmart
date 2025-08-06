@@ -38,10 +38,21 @@ define('LOG_LEVEL', 1);
 define('PTERODACTYL_TOKEN', "eyJpdiI6Ikd0RWFrRjl5RTJ0Y0JEUldVclA0dXc9PSIsInZhbHVlIjoiYWI4V00xdFdWN0JZNUZtV2pYMGZzdEl5Q1Y4YzdLVW51czZMNUxNMy9MNy83OTAzSmhMR0tNWTBUdEJ6UWppRiIsIm1hYyI6IjYwODhhMWVjZTcxZjM4MDhkOTI5NjhkNzhmNTYwYTNmMDUxMzk4MzMwM2ZjNjAwMDA1ZjliZDA2YjQ3MjE3NmQiLCJ0YWciOiIifQ==");
 define('PTERODACTYL_TOKEN_EN', 'm2YeovLn9B9P65rLgDGkkSfVVLk1AcDC');
 
+
 // 保留全局变量作为备用
 $token = PTERODACTYL_TOKEN;
 $token_en = PTERODACTYL_TOKEN_EN;
 ```
+
+::: danger 重要提示
+上面的Token值仅为示例，**必须**替换为您自己的有效Token。
+
+<div style="text-align:center;margin:15px 0;font-size:1.2em;font-weight:bold;">
+  <a href="/token-configuration" style="background-color:#4CAF50;color:white;padding:10px 20px;text-decoration:none;border-radius:4px;">
+    👉 查看详细的Token配置指南 👈
+  </a>
+</div>
+:::
 
 ::: warning 注意
 如果env.php文件已经存在，请勿重复创建或修改，以免影响现有配置。

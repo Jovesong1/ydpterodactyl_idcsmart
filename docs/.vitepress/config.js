@@ -39,7 +39,8 @@ export default defineConfig({
                   items: [
                     { text: '开通配置项', link: '/idcsmart-activate' },
                     { text: '产品配置项', link: '/idcsmart-product' },
-                    { text: '升降级', link: '/idcsmart-upgrade' }
+                    { text: '升降级', link: '/idcsmart-upgrade' },
+                    { text: 'Token配置', link: '/token-configuration' }
                   ]
                 },
                 {

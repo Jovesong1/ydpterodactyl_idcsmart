@@ -28,7 +28,8 @@ export default defineConfig({
               items: [
                 { text: '安装翼龙', link: '/install-pterodactyl' },
                 { text: '模块安装', link: '/install-module' },
-                { text: '配置接口', link: '/setup-api' }
+                { text: '配置接口', link: '/setup-api' },
+                { text: '更新指南', link: '/update-guide' }
               ]
             },
             {
